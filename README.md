@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-dark-hidden-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Velvet Dark Hidden Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-dark-hidden-room/) |
+| **Get License** | [Commercial Licensing for Velvet Dark Hidden Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-dark-hidden-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The shadows fall across the wooden floor
+> I see you standing by the open door
+> A gentle breeze is pulling you to me
+> This is exactly where we're meant to be
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
